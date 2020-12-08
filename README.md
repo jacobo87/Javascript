@@ -1,6 +1,6 @@
 # Javascript
-> Conocer Javascript 
-Jacobo Azmani 2020 
+> Conocer Javascript  
+> Jacobo Azmani 2020 
 
 ## CONTENIDO
 1. Introducción.
