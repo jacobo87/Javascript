@@ -30,7 +30,8 @@ Jacobo Azmani 2020
 	
 **Frondend & Backend** 
 
-Javascript ---------------------------- Javascript
+Javascript ---------------------------- Javascript 
+
 Client-side --------------------------- Server-side
 
 #### Resumen, javascript es ...
